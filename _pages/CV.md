@@ -1,6 +1,6 @@
 ---
-permalink: /CV/
-title: "cv"
+permalink: /cv/
+title: "CV"
 ---
 
 **Download Here** 
