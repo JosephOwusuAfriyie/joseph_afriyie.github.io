@@ -64,7 +64,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://josephowusuafriyie/joseph_afriyie.github.io"
-    - label: "LinedIn"
+    - label: "LinkedIn"
       icon: "fa fa-linkedin-square" style="font-size:48px;color:blue"
       url: "https://linkedin.com/in/joseph-afriyie/"
     - label: "GitHub"
