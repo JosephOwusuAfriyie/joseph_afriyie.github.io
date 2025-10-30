@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Joseph Owusu Afriyie"
   avatar : "/assets/images/Profile.jpg"
-  bio    : "Graduate Student with interest in Computer Vision and Data Analysis."
+  bio    : "Graduate Student interested in Computer Vision and Data Analysis."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
