@@ -65,7 +65,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://josephowusuafriyie/joseph_afriyie.github.io"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square" style="font-size:48px;color:blue"
+      icon: "fa fa-linkedin-square" style ="font-size:48px;color:blue"
       url: "https://linkedin.com/in/joseph-afriyie/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -82,8 +82,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://josephowusuafriyie.github.com/"
-    - label: "LinedIn"
-      icon: "fa fa-linkedin"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin-square" style ="font-size:48px;color:blue"
       url: "https://linkedin.com/in/joseph-afriyie/"
 
 defaults:
